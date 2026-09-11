@@ -63,7 +63,7 @@ I'm interested in **junior developer positions, internships, and collaborative p
 <h3 align="center">Tools and platforms</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,github,windows,linux" alt="CLion, PyCharm, VS Code, GitHub, Windows and Linux" />
+  <img src="https://skillicons.dev/icons?i=clion,pycharm,vscode,visualstudio,github,windows,linux" alt="CLion, PyCharm, VS Code, Visual Studio, GitHub, Windows and Linux" />
 </p>
 
 <p align="center">
